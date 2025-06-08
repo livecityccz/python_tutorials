@@ -22,8 +22,3 @@
 * [其他](https://morvanzhou.github.io/tutorials/others/)
   * [Git (版本管理)](https://morvanzhou.github.io/tutorials/others/git/)
   * [Linux 简易教学](https://morvanzhou.github.io/tutorials/others/linux-basic/)
-
-## 赞助和支持
-
-这些 tutorial 都是我用业余时间写出来, 录成视频, 如果你觉得它对你很有帮助, 请你也分享给需要学习的朋友们.
-如果你看好我的经验分享, 也请考虑适当的 [赞助打赏](https://morvanzhou.github.io/support/), 让我能继续分享更好的内容给大家.
