@@ -1,4 +1,4 @@
-## 这个 Python tutorial 的一些内容:
+## Python tutorial
 
 * [Python 基础](https://morvanzhou.github.io/tutorials/python-basic/)
   * [基础](https://morvanzhou.github.io/tutorials/python-basic/basic/)
